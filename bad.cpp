@@ -7,3 +7,5 @@ int main() {
     undeclaredFunction(); // call to an undefined function
     return 0
 }
+
+vector<intadd(int a , int b)
